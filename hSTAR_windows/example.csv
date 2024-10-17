@@ -1,0 +1,346 @@
+Feature Name,example,Notes
+MPT_Attempts_Baseline1_PointEstimate,0.316867331,Continuous
+MPT_LexicalSemantic_Baseline1_PointEstimate,0.756178068,Continuous
+MPT_LexicalPhonological_Baseline1_PointEstimate,0.94120117,Continuous
+MPT_LexicalSelection_Baseline1_PointEstimate,0.668188067,Continuous
+MPT_Phonological_Baseline1_PointEstimate,0.091841142,Continuous
+MPT_Semantic_Baseline1_PointEstimate,0.255603052,Continuous
+MPT_Attempts_Baseline1_PointEstimateVariance,0.029365974,Continuous
+MPT_LexicalSemantic_Baseline1_PointEstimateVariance,0.086449749,Continuous
+MPT_LexicalPhonological_Baseline1_PointEstimateVariance,0.109827531,Continuous
+MPT_LexicalSelection_Baseline1_PointEstimateVariance,0.05864741,Continuous
+MPT_Phonological_Baseline1_PointEstimateVariance,0.050046622,Continuous
+MPT_Semantic_Baseline1_PointEstimateVariance,0.072344893,Continuous
+MPT_Attempts_Baseline2_PointEstimate,0.497287456,Continuous
+MPT_LexicalSemantic_Baseline2_PointEstimate,0.875315088,Continuous
+MPT_LexicalPhonological_Baseline2_PointEstimate,0.598070257,Continuous
+MPT_LexicalSelection_Baseline2_PointEstimate,0.74660887,Continuous
+MPT_Phonological_Baseline2_PointEstimate,0.082660527,Continuous
+MPT_Semantic_Baseline2_PointEstimate,0.700789432,Continuous
+MPT_Attempts_Baseline2_PointEstimateVariance,0.034772043,Continuous
+MPT_LexicalSemantic_Baseline2_PointEstimateVariance,0.080085182,Continuous
+MPT_LexicalPhonological_Baseline2_PointEstimateVariance,NaN,Continuous
+MPT_LexicalSelection_Baseline2_PointEstimateVariance,0.014798944,Continuous
+MPT_Phonological_Baseline2_PointEstimateVariance,0.026363295,Continuous
+MPT_Semantic_Baseline2_PointEstimateVariance,0.070599266,Continuous
+MPT_Attempts_ZtestDifferenceInBaselinePointEstimates,0.112612953,Continuous
+MPT_LexicalSemantic_ZtestDifferenceInBaselinePointEstimates,0.342442073,Continuous
+MPT_LexicalPhonological_ZtestDifferenceInBaselinePointEstimates,0.761660945,Continuous
+MPT_LexicalSelection_ZtestDifferenceInBaselinePointEstimates,0.791743414,Continuous
+MPT_Phonological_ZtestDifferenceInBaselinePointEstimates,0.682077502,Continuous
+MPT_Semantic_ZtestDifferenceInBaselinePointEstimates,0.479449952,Continuous
+PNT_MeanCorrectAcrossBaselineSessions,0.242442866,Continuous
+PNT_MeanSemanticErrorsAcrossBaselineSessions,0.02655631,Continuous
+PNT_MeanFormalErrorsAcrossBaselineSessions,0.156446503,Continuous
+PNT_MeanMixedErrorsAcrossBaselineSessions,0.082750262,Continuous
+PNT_MeanUnrelatedErrorsAcrossBaselineSessions,0.311808624,Continuous
+PNT_MeanNeologismsAcrossBaselineSessions,0.171145054,Continuous
+PNT_MeanAbstuseNeologismsAcrossBaselineSessions,0.112082562,Continuous
+PNT_MeanNonNamingAttemptsAcrossBaselineSessions,0.608632671,Continuous
+PNT_VarianceCorrectAcrossBaselineSessions,0.150692598,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceSemanticErrorsAcrossBaselineSessions,0.043901927,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceFormalErrorsAcrossBaselineSessions,0.156075326,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceMixedErrorsAcrossBaselineSessions,0.028228922,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceUnrelatedErrorsAcrossBaselineSessions,0.197407317,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceNeologismsAcrossBaselineSessions,0.479790014,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceAbstuseNeologismsAcrossBaselineSessions,0.119829343,Continuous; this is average within-session variance (within-session variance being std dev)
+PNT_VarianceNonNamingAttemptsAcrossBaselineSessions,0.381031149,Continuous; this is average within-session variance (within-session variance being std dev)
+Lesion_TotalBilateralLoad,0.047346408,Continuous
+Lesion_TotalLHLoad,0.261021061,Continuous
+Lesion_TotalRHLoad,0.010444233,Continuous
+Lesion_LanguageTractsBilateralLoad,NaN,Continuous
+Lesion_LanguageTractsLHLoad,0.883661509,Continuous
+Lesion_DorsalBilateralLoad,0.137809565,Continuous
+Lesion_DorsalLHLoad,0.503125751,Continuous
+Lesion_DorsalRHLoad,0.005291386,Continuous
+Lesion_VentralBilateralLoad,0.026197529,Continuous
+Lesion_VentralLHLoad,0.002069065,Continuous
+Lesion_VentralRHLoad,1.03E-05,Continuous
+Lesion_GreyMatterBilateralLoad,0.020735472,Continuous
+Lesion_GreyMatterLHLoad,0.329182389,Continuous
+Lesion_GreyMatterRHLoad,0.020353727,Continuous
+Lesion_WhiteMatterBilateralLoad,NaN,Continuous
+Lesion_WhiteMatterLHLoad,0.218300558,Continuous
+Lesion_WhiteMatterRHLoad,0.000731216,Continuous
+Lesion_CSFBilateralLoad,0.115766896,Continuous
+Lesion_CSFLHLoad,0.073646609,Continuous
+Lesion_LHLoadProportionalToTotalBilateralLoad,1.71616221,Continuous
+Lesion_RHLoadProportionalToTotalBilateralLoad,0.088366038,Continuous
+Lesion_LanguageTractsBilateralLoadProportionalToTotalBilateralLoad,6.361042926,Continuous
+Lesion_DorsalBilateralLoadProportionalToTotalBilateralLoad,3.769744395,Continuous
+Lesion_DorsalLHLoadProportionalToDorsalBilateralLoad,1.9876682,Continuous
+Lesion_DorsalRHLoadProportionalToDorsalBilateralLoad,0.026927826,Continuous
+Lesion_VentralBilateralLoadProportionalToTotalBilateralLoad,4.782390835,Continuous
+Lesion_VentralLHLoadProportionalToVentralBilateralLoad,NaN,Continuous
+Lesion_VentralRHLoadProportionalToVentralBilateralLoad,0.000414687,Continuous
+Lesion_GreyMatterBilateralLoadProportionalToTotalBilateralLoad,1.66195727,Continuous
+Lesion_GreyMatterLHLoadProportionalToGreyMatterBilateralLoad,1.931748822,Continuous
+Lesion_GreyMatterRHProportionalToGreyMatterBilateralLoad,0.350501532,Continuous
+Lesion_WhiteMatterBilateralLoadProportionalToTotalBilateralLoad,1.06808411,Continuous
+Lesion_WhiteMatterLHLoadProportionalToWhiteMatterBilateralLoad,1.769537013,Continuous
+Lesion_WhiteMatterRHLoadProportionalToWhiteMatterBilateralLoad,0.14953264,Continuous
+Lesion_CSFBilateralLoadProportionalToTotalBilateralLoad,1.297224661,Continuous
+Lesion_CSFLHLoadProportionalToCSFBilateralLoad,NaN,Continuous
+CBF_TotalBilateral,88.87351984,Continuous
+CBF_TotalLH,NaN,Continuous
+CBF_TotalRH,26.95126222,Continuous
+CBF_LanguageTractsBilateral,31.86471222,Continuous
+CBF_LanguageTractsLH,NaN,Continuous
+CBF_LanguageTractsRH,26.1558789,Continuous
+CBF_DorsalBilateral,41.25568447,Continuous
+CBF_DorsalLH,14.50570724,Continuous
+CBF_DorsalRH,NaN,Continuous
+CBF_VentralBilateral,109.1315365,Continuous
+CBF_VentralLH,72.34832671,Continuous
+CBF_VentralRH,80.18939798,Continuous
+CBF_GreyMatterBilateral,66.49857944,Continuous
+CBF_GreyMatterLH,NaN,Continuous
+CBF_GreyMatterRH,42.7728673,Continuous
+CBF_WhiteMatterBilateral,33.69399623,Continuous
+CBF_WhiteMatterLH,NaN,Continuous
+CBF_WhiteMatterRH,89.88971413,Continuous
+CBF_CSFBilateral,42.59916552,Continuous
+CBF_CSFLH,26.81503026,Continuous
+CBF_CSFRH,27.20201058,Continuous
+CBF_TotalLHProportionalToTotalBilateral,NaN,Continuous
+CBF_TotalRHProportionaToTotalBilateral,0.984389336,Continuous
+CBF_LanguageTractsBilateralProportionalToTotalBilateral,0.962921458,Continuous
+CBF_LanguageTractsLHProportionalToLanguageTractsBilateral,1.011612298,Continuous
+CBF_LanguageTractsRHProportionalToLanguageTractsBilateral,1.792862631,Continuous
+CBF_DorsalBilateralProportionalToTotalBilateral,0.914551619,Continuous
+CBF_DorsalLHProportionalToDorsalBilateral,0.564674378,Continuous
+CBF_DorsalRHProportionalToDorsalBilateral,NaN,Continuous
+CBF_VentrallBilateralProportionalToTotalBilateral,NaN,Continuous
+CBF_VentralLHProportionalToVentralBilateral,0.452212947,Continuous
+CBF_VentralRHProportionalToVentralBilateral,1.488975888,Continuous
+CBF_GreyMatterBilateralProportionalToTotalBilateral,1.309295333,Continuous
+CBF_GreyMatterLHProportionalToGreyMatterBilateral,0.845035609,Continuous
+CBF_GreyMatterRHProportionalToGreyMatterBilateral,NaN,Continuous
+CBF_WhiteMatterBilateralProportionalToTotalBilateral,0.778801286,Continuous
+CBF_WhiteMatterLHProportionalToWMBilateral,NaN,Continuous
+CBF_WhiteMatterRHProportionalToWMBilateral,1.495436874,Continuous
+CBF_CSFBilateralProportionalToTotalBilateral,0.451156204,Continuous
+CBF_CSFLHProportionalToCSFBilateral,1.206113581,Continuous
+CBF_CSFRHProportionalToCSFBilateral,1.300588827,Continuous
+FA_TotalBilateral,NaN,Continuous
+FA_TotalLH,NaN,Continuous
+FA_TotalRH,0.216426651,Continuous
+FA_LanguageTractsBilateral,0.152586214,Continuous
+FA_LanguageTractsLH,0.203157127,Continuous
+FA_LanguageTractsRH,0.288441823,Continuous
+FA_DorsalBilateral,0.140222572,Continuous
+FA_DorsalLH,0.09069582,Continuous
+FA_DorsalRH,0.225680001,Continuous
+FA_VentralBilateral,0.200932089,Continuous
+FA_VentralLH,0.19209037,Continuous
+FA_VentralRH,0.230362991,Continuous
+FA_GreyMatterBilateral,NaN,Continuous
+FA_GreyMatterLH,0.180176011,Continuous
+FA_GreyMatterRH,0.176871242,Continuous
+FA_WhiteMatterBilateral,0.290889016,Continuous
+FA_WhiteMatterLH,0.285345521,Continuous
+FA_WhiteMatterRH,NaN,Continuous
+FA_CSFBilateral,NaN,Continuous
+FA_CSFLH,0.131908595,Continuous
+FA_CSFRH,0.363420784,Continuous
+FA_TotalLHProportionalToTotalBilateral,0.848203427,Continuous
+FA_TotalRHProportionaToTotalBilateral,1.133705777,Continuous
+FA_LanguageTractsBilateralProportionalToTotalBilateral,1.109596085,Continuous
+FA_LanguageTractsLHProportionalToLanguageTractsBilateral,0.522427984,Continuous
+FA_LanguageTractsRHProportionalToLanguageTractsBilateral,1.470892925,Continuous
+FA_DorsalBilateralProportionalToTotalBilateral,0.872521232,Continuous
+FA_DorsalLHProportionalToDorsalBilateral,0.702534539,Continuous
+FA_DorsalRHProportionalToDorsalBilateral,NaN,Continuous
+FA_VentrallBilateralProportionalToTotalBilateral,0.855794717,Continuous
+FA_VentralLHProportionalToVentralBilateral,0.868229265,Continuous
+FA_VentralRHProportionalToVentralBilateral,1.02949792,Continuous
+FA_GreyMatterBilateralProportionalToTotalBilateral,0.822688082,Continuous
+FA_GreyMatterLHProportionalToGreyMatterBilateral,0.981771076,Continuous
+FA_GreyMatterRHProportionalToGreyMatterBilateral,1.055305967,Continuous
+FA_WhiteMatterBilateralProportionalToTotalBilateral,NaN,Continuous
+FA_WhiteMatterLHProportionalToWMBilateral,0.957540083,Continuous
+FA_WhiteMatterRHProportionalToWMBilateral,NaN,Continuous
+FA_CSFBilateralProportionalToTotalBilateral,0.600529017,Continuous
+FA_CSFLHProportionalToCSFBilateral,0.754345016,Continuous
+FA_CSFRHProportionalToCSFBilateral,1.531735501,Continuous
+MD_TotalBilateral,NaN,Continuous
+MD_TotalLH,0.000745807,Continuous
+MD_TotalRH,0.000652904,Continuous
+MD_LanguageTractsBilateral,0.001570842,Continuous
+MD_LanguageTractsLH,0.001377717,Continuous
+MD_LanguageTractsRH,0.001311345,Continuous
+MD_DorsalBilateral,0.001629492,Continuous
+MD_DorsalLH,0.001171069,Continuous
+MD_DorsalRH,0.000761208,Continuous
+MD_VentralBilateral,NaN,Continuous
+MD_VentralLH,0.001782736,Continuous
+MD_VentralRH,0.000817432,Continuous
+MD_GreyMatterBilateral,0.001127216,Continuous
+MD_GreyMatterLH,0.00109056,Continuous
+MD_GreyMatterRH,NaN,Continuous
+MD_WhiteMatterBilateral,0.001586945,Continuous
+MD_WhiteMatterLH,0.001476583,Continuous
+MD_WhiteMatterRH,0.000589492,Continuous
+MD_CSFBilateral,0.001312243,Continuous
+MD_CSFLH,0.002023595,Continuous
+MD_CSFRH,0.000806671,Continuous
+MD_TotalLHProportionalToTotalBilateral,1.096033108,Continuous
+MD_TotalRHProportionaToTotalBilateral,0.800385336,Continuous
+MD_LanguageTractsBilateralProportionalToTotalBilateral,1.211317544,Continuous
+MD_LanguageTractsLHProportionalToLanguageTractsBilateral,1.141814494,Continuous
+MD_LanguageTractsRHProportionalToLanguageTractsBilateral,0.662177673,Continuous
+MD_DorsalBilateralProportionalToTotalBilateral,0.949815081,Continuous
+MD_DorsalLHProportionalToDorsalBilateral,1.110234506,Continuous
+MD_DorsalRHProportionalToDorsalBilateral,0.978786705,Continuous
+MD_VentrallBilateralProportionalToTotalBilateral,1.022330307,Continuous
+MD_VentralLHProportionalToVentralBilateral,1.253522418,Continuous
+MD_VentralRHProportionalToVentralBilateral,NaN,Continuous
+MD_GreyMatterBilateralProportionalToTotalBilateral,0.897364643,Continuous
+MD_GreyMatterLHProportionalToGreyMatterBilateral,1.119631797,Continuous
+MD_GreyMatterRHProportionalToGreyMatterBilateral,NaN,Continuous
+MD_WhiteMatterBilateralProportionalToTotalBilateral,1.042096674,Continuous
+MD_WhiteMatterLHProportionalToWMBilateral,1.168868868,Continuous
+MD_WhiteMatterRHProportionalToWMBilateral,0.863110588,Continuous
+MD_CSFBilateralProportionalToTotalBilateral,1.918828148,Continuous
+MD_CSFLHProportionalToCSFBilateral,1.129252656,Continuous
+MD_CSFRHProportionalToCSFBilateral,NaN,Continuous
+FC_IntrahemisphericLH,NaN,Continuous
+FC_IntrahemisphericRH,0.096617753,Continuous
+FC_Total(Bilateral),0.200026323,Continuous
+FC_Interhemispheric,0.035102277,Continuous
+FC_VentralBilateral,0.200260195,Continuous
+FC_VentralIntrahemisphericLH,0.112810705,Continuous
+FC_VentralIntrahemisphericRH,NaN,Continuous
+FC_VentralInterhemispheric,NaN,Continuous
+FC_DorsalBilateral,0.046865657,Continuous
+FC_DorsalIntrahemisphericLH,NaN,Continuous
+FC_DorsalIntrahemisphericRH,0.360687743,Continuous
+FC_DorsalToVentralBilateral,0.022888455,Continuous
+FC_DorsalToVentralIntrahemisphericLH,0.155260639,Continuous
+FC_DorsalToVentralIntrahemisphericRH,0.413541854,Continuous
+FC_IntrahemisphericLHProportionalToTotal,1.974429034,Continuous
+FC_IntrahemisphericRHProportionalToTotal,3.038480487,Continuous
+FC_VentralIntrahemisphericLHProportionalToVentralBilateral,1.355093205,Continuous
+FC_VentralIntrahemisphericRHProportionalToVentralBilateral,1.846030269,Continuous
+FC_DorsalIntrahemisphericLHProportionalToDorsalBilateral,0.520168779,Continuous
+FC_DorsalIntrahemisphericRHProportionalToDorsalBilateral,NaN,Continuous
+FC_DorsalToVentralIntrahemisphericLHProportionalToDorsalToVentralBilateral,NaN,Continuous
+FC_DorsalToVentralIntrahemisphericRHProportionalToDorsalToVentralBilateral,65.62234461,Continuous
+SC_IntrahemisphericLH,9.93775854,Continuous
+SC_IntrahemisphericRH,9.549922501,Continuous
+SC_Total(Bilateral),6.916233608,Continuous
+SC_Interhemispheric,2.94679798,Continuous
+SC_VentralBilateral,4.669434295,Continuous
+SC_VentralIntrahemisphericLH,9.508264724,Continuous
+SC_VentralIntrahemisphericRH,16.07585936,Continuous
+SC_VentralInterhemispheric,2.259918302,Continuous
+SC_DorsalBilateral,11.17160712,Continuous
+SC_DorsalIntrahemisphericLH,6.858773883,Continuous
+SC_DorsalIntrahemisphericRH,34.82135312,Continuous
+SC_DorsalToVentralBilateral,3.741736055,Continuous
+SC_DorsalToVentralIntrahemisphericLH,1.192610293,Continuous
+SC_DorsalToVentralIntrahemisphericRH,NaN,Continuous
+SC_IntrahemisphericLHProportionalToTotal,1.084895433,Continuous
+SC_IntrahemisphericRHProportionalToTotal,NaN,Continuous
+SC_VentralIntrahemisphericLHProportionalToVentralBilateral,1.374373736,Continuous
+SC_VentralIntrahemisphericRHProportionalToVentralBilateral,3.397290015,Continuous
+SC_DorsalIntrahemisphericLHProportionalToDorsalBilateral,1.442842256,Continuous
+SC_DorsalIntrahemisphericRHProportionalToDorsalBilateral,NaN,Continuous
+SC_DorsalToVentralIntrahemisphericLHProportionalToDorsalToVentralBilateral,0.416326405,Continuous
+SC_DorsalToVentralIntrahemisphericRHProportionalToDorsalToVentralBilateral,1.509075925,Continuous
+WAB_AphasiaQuotient,43.4972281,Continuous
+NIHStrokeSeverity,0.009093495,Continuous
+FluentVsNonFluent,1.239984489,"2 is Fluent,1 is Nonfluent"
+Sex,1.488113335,"Male is 2, female is 1"
+MonthsPostOnset,158.161809,Continuous
+ChronologicalAgeDuringStroke,46.48873844,Continuous
+ChronologicalAge,56.92621282,Continuous
+Depression,1.856124828,"1 is no, 2 is yes"
+AntidepressantUsage,NaN,"1 is no, 2 is yes"
+Diabetes,1.32258194,"1 is no, 2 is yes"
+Education,17.67464534,Continuous
+ExerciseBeforeStroke,5.937659015,Continuous
+ExerciseAfterStroke,4.604949329,Continuous
+ReceivedTreatmentOrder,1.175361067,"1 is phonological first, 2 is semantic first"
+ASRS_AphasiaSeverity,2.092030727,Continuous
+ASRS_ApraxiaOfSpeechSeverity,0.569679315,Continuous
+ASRS_DysarthriaSeverity,1.020873585,Continuous
+ASRS_ApraxiaOfSpeech,1.610426185,Continuous
+ASRS_Dysarthria,1.70271645,Continuous
+WAIS,14.70633052,Continuous
+PyramidsAndPalmTrees,18.77458865,Continuous
+KissingAndDancingTest,28.41080447,Continuous
+PhiladelphiaRepetitionTask_Correct,112.5884483,Continuous
+Naming40_CorrectResponses,5.375533707,Continuous
+Naming40_SelfCorrectResponses,2.077200914,Continuous
+Naming40_SemanticErrors,4.438274124,Continuous
+Naming40_PhonemicErrors,NaN,Continuous
+NAVS_VerbNaming_Test,17.9551501,Continuous
+NAVS_VerbComprehensionTest,6.663931625,Continuous
+NAVS_ASPT_ArgumentStructure,18.46146276,Continuous
+NAVS_ArgumentStructureProductionTest,23.47077993,Continuous
+NAVS_SentenceProductionPrimingTask,21.49783952,Continuous
+NAVS_SentenceComprehensionTest,8.012984779,Continuous
+TALSA_RhymeJudgement_W5SF,NaN,Continuous
+TALSA_RhymeJudgement_W5SU,11.86961658,Continuous
+TALSA_RhymeJudgement_NW5SF,8.376064187,Continuous
+TALSA_RhymeJudgement_NW5SU,15.75725669,Continuous
+TALSA_Triplet_A1_Total,8.940899373,Continuous
+TALSA_Triplet_A2Total,6.718608196,Continuous
+PALPA_1,70.38871428,Continuous
+PALPA_2,60.83269548,Continuous
+PALPA_8,NaN,Continuous
+PALPA_14,18.81655779,Continuous
+PALPA_15,56.38345733,Continuous
+PALPA_16_words,21.40356666,Continuous
+PALPA_16_nonwords,NaN,Continuous
+PALPA_17_words,17.13742099,Continuous
+PALPA_17_nonwords,NaN,Continuous
+MeanLengthOfUtterance_Cinderella_Baseline,NaN,Continuous
+TypeTokenRatio_Cinderella_Baseline,0.747181064,Continuous
+WordsPerMinute_Cinderella_Baseline,91.34841122,Continuous
+VerbsPerUtterance_Cinderella_Baseline,2.177909174,Continuous
+PercentWordErrors_Cinderella_Baseline,1.018824466,Continuous
+PropositionalDensity_Cinderella_Baseline,0.01468058,Continuous
+NounVerbRatio_Cinderella_Baseline,5.184265968,Continuous
+OpenClosedClassRatio_Cinderella_Baseline,6.973755327,Continuous
+PhonologicalErrorsPerWord_Cinderella_Baseline,0.063193789,Continuous
+SemanticErrorsPerWord_Cinderella_Baseline,0.09657305,Continuous
+UnrelatedErrorsPerWord_Cinderella_Baseline,0.060532418,Continuous
+TotalLesionVolume,NaN,Continuous
+ProportionalBrainAgeDifference,6.728896796,Continuous
+WAB_SpontaneousSpeech,6.073210437,Continuous
+WAB_AuditoryComprehension,8.300277454,Continuous
+WAB_Repetition,3.198104614,Continuous
+WAB_Naming,8.900724657,Continuous
+fMRI_ParietalLesionDilated3mmTo6mm,-0.018054387,Continuous
+fMRI_ParietalLesionDilated6mmTo9mm,NaN,Continuous
+fMRI_ParietalLesionDilated9mmTo12mm,0.696765745,Continuous
+fMRI_ParietalLesionDilated12mmTo15mm,1.284461118,Continuous
+fMRI_TemporalLesionDilated3mmTo6mm,0.431775907,Continuous
+fMRI_TemporalLesionDilated6mmTo9mm,-0.445759988,Continuous
+fMRI_TemporalLesionDilated9mmTo12mm,0.774585637,Continuous
+fMRI_TemporalLesionDilated12mmTo15mm,0.741211232,Continuous
+fMRI_FrontalLesionDilated3mmTo6mm,1.049400128,Continuous
+fMRI_FrontalLesionDilated6mmTo9mm,-0.815019694,Continuous
+fMRI_FrontalLesionDilated9mmTo12mm,1.488591973,Continuous
+fMRI_FrontalLesionDilated12mmTo15mm,NaN,Continuous
+WAB_MildSeverity,0.185656113,"1 if this is the severity category, 0 if not"
+WAB_ModerateMildSeverity,0.837823091,"1 if this is the severity category, 0 if not"
+WAB_ModerateSevereSeverity,0.933946092,"1 if this is the severity category, 0 if not"
+WAB_SevereSeverity,0.110312487,"1 if this is the severity category, 0 if not"
+AphasiaType_Anomia,0.139376093,"1 if this is the aphasia type category, 0 if not"
+AphasiaType_Broca's,0.791902783,"1 if this is the aphasia type category, 0 if not"
+AphasiaType_Conduction,0.256077025,"1 if this is the aphasia type category, 0 if not"
+AphasiaType_Global,0.236667522,"1 if this is the aphasia type category, 0 if not"
+AphasiaType_TransCortialMotor,0.154755501,"1 if this is the aphasia type category, 0 if not"
+AphasiaType_Wernicke's,0.524747151,"1 if this is the aphasia type category, 0 if not"
+StrokeType_Hemorrhagic,0.853695924,"1 if this is the stroke type category, 0 if not"
+StrokeType_Ischemic,0.330250115,"1 if this is the stroke type category, 0 if not"
+StrokeType_Unconventional,0.190331291,"1 if this is the stroke type category, 0 if not (this category is 'other')"
+Race_AfricanAmerican,0.229719179,"1 if this is the race category, 0 if not"
+Race_Asian,0.488872561,"1 if this is the race category, 0 if not"
+Race_White,0.620959218,"1 if this is the race category, 0 if not"
+Handedness_Ambidextrous,0.255013277,"1 if this is the handedness category, 0 if not"
+Handedness_Left,0.1883719,"1 if this is the handedness category, 0 if not"
+Handedness_Right,0.254658832,"1 if this is the handedness category, 0 if not"

@@ -1,0 +1,8 @@
+Read-me 
+
+Step 1: Download matlab runtime, which is free (make sure to get version 24.1): https://www.mathworks.com/products/compiler/matlab-runtime.html 
+
+Step 2: Go to ./for_redistribution_files_only 
+
+Step 3: Open the .exe
+
